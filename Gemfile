@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+ruby '2.6.3'
+
+gem 'appium_lib'
+gem 'cucumber'
+gem 'gherkin'
+gem 'json'
+gem 'require_all'
+gem 'rspec'
+gem 'rubocop'
+gem 'term-ansicolor'
